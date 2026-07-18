@@ -1,0 +1,12 @@
+{
+  "name": "willaireplacemetest-public",
+  "version": "1.0.0",
+  "private": false,
+  "description": "Public repository for willaireplacemetest.com",
+  "homepage": "https://willaireplacemetest.com",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rohitdas-ai/willaireplacemetest.git"
+  },
+  "license": "MIT"
+}
